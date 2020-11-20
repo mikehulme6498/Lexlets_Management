@@ -22,4 +22,5 @@ On the login page select custom database and use the database above.
 Login using
 
 Name : Mike
-Password : Admin
+Password : admin
+(both case senstive)
