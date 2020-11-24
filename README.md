@@ -2,18 +2,21 @@
 
 Software to manage Inventory, Sales, Accounts &amp; Customers for my wife's jewellery business.
 
-This was my first ever C# application. I wrote it as I was learning so it has changed many times. Unfortuantly I knew nothing about GitHub at the time of writing
-hence the lack of commits.
+This was my first ever C# application. I Wrote it whilst learning, so the code is a little inconsistent and incredibly tightly coupled. I had not heard of entity framework at the time so I also had to learn SQL as well. At the time For my level of coding skills, this was a huge project. In fact, I had no idea where to start. So the whole project was a huge learning curve. This is why it is still one of my proudest projects. It is still used to this day to manage the business.
 
 It's made using Winforms and SQL. 
 
-Looking back now the code isn't great, however the program works very well.
+Looking back now the code isn't great, however, the program works very well.
 
-You can view the software in use here https://www.youtube.com/watch?v=MenOfgBFBYg&feature=youtu.be
+### Video Demo
 
-or download it and try it yourself.
+[![Watch the video](http://mikehulme.co.uk/Images/LexLetsYouTube.png)](https://www.youtube.com/watch?v=MenOfgBFBYg&feature=youtu.be)
 
-# PLEASE NOTE YOU NEED TO DOWNLOAD THIS DATABASE TO USE THE SOFTWARE!!
+
+
+### PLEASE NOTE YOU NEED TO DOWNLOAD THIS DATABASE TO USE THE SOFTWARE!!
+
+#### all prices, income, outgoings and customer details have been changed to random values.
 
 http://mikehulme.co.uk/DemoDatabases/lexletsDatabase.mdf
 
