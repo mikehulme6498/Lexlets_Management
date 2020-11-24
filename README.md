@@ -1,4 +1,4 @@
-# LexLets Management
+# LexLets Jewelley Store Management System
 
 Software to manage Inventory, Sales, Accounts &amp; Customers for my wife's jewellery business.
 
