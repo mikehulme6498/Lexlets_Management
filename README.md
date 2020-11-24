@@ -1,6 +1,6 @@
 # LexLets Jewelley Store Management System
 
-Software to manage Inventory, Sales, Accounts &amp; Customers for my wife's jewellery business.
+Software to manage inventory, sales, accounts &amp; customers for my wife's jewellery business.
 
 This was my first ever C# application. I Wrote it whilst learning, so the code is a little inconsistent and incredibly tightly coupled. I had not heard of entity framework at the time so I also had to learn SQL as well. At the time For my level of coding skills, this was a huge project. In fact, I had no idea where to start. So the whole project was a huge learning curve. This is why it is still one of my proudest projects. It is still used to this day to manage the business.
 
