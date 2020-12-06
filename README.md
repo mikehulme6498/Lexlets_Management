@@ -18,7 +18,7 @@ Looking back now the code isn't great, however, the program works very well.
 
 #### all prices, income, outgoings and customer details have been changed to random values.
 
-http://mikehulme.co.uk/DemoDatabases/lexletsDatabase.mdf
+https://mikehulme.co.uk/DemoDatabases/lexletsDatabase.mdf
 
 On the login page select custom database and use the database above.
 
